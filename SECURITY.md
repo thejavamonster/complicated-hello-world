@@ -1,0 +1,5 @@
+# Security Policy
+
+## Supported Versions
+
+SOMEONE WHO KNOWS HOW THIS WORKS PLEASE ENTER SOMETHING HERE THANKS
